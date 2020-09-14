@@ -14,8 +14,8 @@ Original file is located at
 """
 
 import os
-os.environ['KAGGLE_USERNAME'] = "anthonnyolime"
-os.environ['KAGGLE_KEY'] = "ac663c3e6c759875db943aedda32c95e"
+os.environ['KAGGLE_USERNAME'] = "YOUR_KAGGLE_USERNAME"
+os.environ['KAGGLE_KEY'] = "YOUR_KAGGLE_KEY"
 !kaggle datasets download -d hsankesara/flickr-image-dataset
 
 !unzip flickr-image-dataset.zip
