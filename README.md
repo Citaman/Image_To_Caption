@@ -24,7 +24,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-* I follow this implementation ** # How to Develop a Deep Learning Photo Caption Generator from Scratch** [link](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/) 
+* I follow this implementation **How to Develop a Deep Learning Photo Caption Generator from Scratch** [link](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/) 
 
 * This was particularly interesting , this is my first step to digging more in the Deep Learning space of really interesting algorithms.  
 
